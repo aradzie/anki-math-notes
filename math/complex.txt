@@ -1,4 +1,8 @@
+!type:Basic
+
 !deck:Math::Complex::Identities
+
+!tags:Complex
 
 De Moivre's Formula
 ---
